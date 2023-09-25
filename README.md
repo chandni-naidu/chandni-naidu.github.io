@@ -1,2 +1,2 @@
-# chandni-naidu.github.io
+# Chandni Naidu
 Design Archives
