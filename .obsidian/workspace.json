@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing a new note.md",
+                "file": "Chandni's Digital Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing a new note.md",
+                "file": "Chandni's Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing a new note.md",
+                "file": "Chandni's Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing a new note.md"
+                "file": "Chandni's Digital Garden.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f6164acb81d83ab",
+  "active": "c0a0192cd203d4fd",
   "lastOpenFiles": [
-    "README.md",
-    "Testing a new note.md"
+    "Testing a new note.md",
+    "Chandni's Digital Garden.md"
   ]
 }

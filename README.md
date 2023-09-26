@@ -1,2 +1,0 @@
-# Chandni Naidu
-Design Archives
