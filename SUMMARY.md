@@ -66,4 +66,5 @@
   * [Unfinished: Stone Sculptures of Southern India](design-pages/architecture/unfinished-stone-sculptures-of-southern-india.md)
   * [Urban Heritage of Tanjavur](design-pages/architecture/urban-heritage-of-tanjavur.md)
   * [Urban Heritage of Trivandrum](design-pages/architecture/urban-heritage-of-trivandrum.md)
+  * [Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
   * [Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
