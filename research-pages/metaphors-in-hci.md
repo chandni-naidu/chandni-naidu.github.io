@@ -26,7 +26,7 @@ There were 32 participants, working in groups of 4. After an initialization abou
 
 <figure><img src="../.gitbook/assets/Slide 16_9 - 21 (2).png" alt=""><figcaption></figcaption></figure>
 
-### Part 1
+### Part 1: Identify
 
 Goal: Identify metaphors and analyse them in the format shared above (image 2)
 
@@ -43,7 +43,7 @@ Participants were given prints of dashboards, tool sets, and other interface det
 
 
 
-### Part 2
+### Part 2:  Analyse
 
 In the next stage, we&#x20;
 
@@ -71,9 +71,19 @@ Groups were given 1 persona each to study and expand on. The following map was g
 
 
 
+### Outcomes
 
 
 
 
 
+### Findings, Observations
+
+
+
+
+
+
+
+### Future Work
 
