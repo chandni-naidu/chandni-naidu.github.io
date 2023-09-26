@@ -11,12 +11,8 @@
             "id": "c0a0192cd203d4fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chandni's Digital Garden.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chandni's Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chandni's Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chandni's Digital Garden.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +140,7 @@
   },
   "active": "c0a0192cd203d4fd",
   "lastOpenFiles": [
-    "Testing a new note.md",
-    "Chandni's Digital Garden.md"
+    "Chandni's Digital Garden.md",
+    "Testing a new note.md"
   ]
 }

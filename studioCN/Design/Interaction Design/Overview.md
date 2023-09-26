@@ -1,6 +1,0 @@
-1. [[Smartwatch Agenda Display]]
-2. [[Design School Website]]
-3. [[Interactive Tactile Graphics]]
-4. [[FixCity - Community Engagement App]]
-5. [[Audio Immersion]]
-6. [[Links - Connections finder]]
