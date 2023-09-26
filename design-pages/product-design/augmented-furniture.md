@@ -2,17 +2,17 @@
 description: Zero-to-one product design for an augmented reality startup based in Canada
 ---
 
-# Augmented Furniture
+# 💺 Augmented Furniture
 
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/350fe86c-e0d7-49c6-a3af-cb49fc20fd08/Actuality_gif.gif?downloadName=Actuality+gif.gif&expirationTimestamp=1695808800000&id=895186f5-53cf-4453-a46c-d90fa5407262&signature=lKW6y1YDIremcKRZsTK78_MvtNNJOTpnQ180eSQ0-kA&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-#### Background
+### Background
 
 FeelXR (now Actuality) is a startup based in Canada, working on bringing the power of Augmented Reality to large office furniture manufacturers. The product enables furniture companies to make their furniture offerings viewable with AR by just adding a line of code to their own product pages.
 
-#### Product Design Brief
+### Product Design Brief
 
 The beachhead market for this product is going to be office furniture manufacturers, whose primary clients are office space developers. The idea is to create a product that the marketing teams can use to enhance the product's webpages and make it a more compelling sales experience for clients.
 
@@ -46,11 +46,15 @@ Product Management Dashboard: <img src="../../.gitbook/assets/image (13) (1).png
 
 
 
-Landing Page
+### Landing Page
 
 <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
+
+
+
+### Customer View
 
 <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>AR views experienced by end-user</p></figcaption></figure>
 
