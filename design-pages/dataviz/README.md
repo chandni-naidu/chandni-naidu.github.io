@@ -1,2 +1,2 @@
-# 🐜 DataViz
+# DataViz
 

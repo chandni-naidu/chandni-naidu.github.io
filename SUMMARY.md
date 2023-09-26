@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+  * [About](readme/about.md)
 
 ## 🛸 Design Pages
 
@@ -57,7 +58,9 @@
 
 ## 🚴 Teaching
 
-* [Foundations in HCI](teaching/foundations-in-hci.md)
+* [Foundations in HCI](teaching/foundations-in-hci/README.md)
+  * [Design Tools](teaching/foundations-in-hci/design-tools.md)
+  * [Select Student Work](teaching/foundations-in-hci/select-student-work.md)
 * [Design for XR](teaching/design-for-xr.md)
 * [Digital Storytelling](teaching/digital-storytelling.md)
 * [Accessibility and Inclusive Design](teaching/accessibility-and-inclusive-design.md)
@@ -66,7 +69,3 @@
 
 * [Assistive Technology: UX India](talks/assistive-technology-ux-india.md)
 * [Inclusive Design: TEDx](talks/inclusive-design-tedx.md)
-
-***
-
-* [About](about.md)

@@ -1,2 +1,2 @@
-# 🛺 Interaction Design
+# Interaction Design
 

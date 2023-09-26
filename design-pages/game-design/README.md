@@ -1,2 +1,2 @@
-# 🦉 Game Design
+# Game Design
 

@@ -1,2 +1,2 @@
-# 🐧 Product Design
+# Product Design
 

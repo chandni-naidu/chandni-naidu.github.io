@@ -2,7 +2,7 @@
 description: Game platform design for Popcore
 ---
 
-# Game Platform
+# 🎮 Game Platform
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
