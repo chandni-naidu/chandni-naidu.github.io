@@ -40,7 +40,7 @@
 ## 🧀 Research Pages
 
 * [Metaphors in HCI](research-pages/metaphors-in-hci.md)
-* [PAckaging Accessibility](research-pages/packaging-accessibility.md)
+* [Packaging Accessibility](research-pages/packaging-accessibility.md)
 * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
 
 ## 🚴 Teaching
