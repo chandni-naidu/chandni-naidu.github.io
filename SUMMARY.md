@@ -12,7 +12,14 @@
     * [Wireframes](design-pages/product-design/game-platform/wireframes.md)
     * [MVP](design-pages/product-design/game-platform/mvp.md)
     * [UI Details](design-pages/product-design/game-platform/ui-details.md)
-  * [Tactopus: Inclusive Learning with MR](design-pages/product-design/tactopus-inclusive-learning-with-mr.md)
+  * [Tactopus: Inclusive Learning with MR](design-pages/product-design/tactopus-inclusive-learning-with-mr/README.md)
+    * [Design of Tactile Graphics](design-pages/product-design/tactopus-inclusive-learning-with-mr/design-of-tactile-graphics.md)
+    * [Interactive Tactile Graphics (Masters' thesis)](design-pages/product-design/tactopus-inclusive-learning-with-mr/interactive-tactile-graphics-masters-thesis.md)
+    * [Founding of Tactopus: Inclusive, Multi-sensory Learning](design-pages/product-design/tactopus-inclusive-learning-with-mr/founding-of-tactopus-inclusive-multi-sensory-learning.md)
+    * [What Makes You Special?](design-pages/product-design/tactopus-inclusive-learning-with-mr/what-makes-you-special.md)
+    * [Tactopus Counting Book](design-pages/product-design/tactopus-inclusive-learning-with-mr/tactopus-counting-book.md)
+    * [The Tactopus Phone Stand](design-pages/product-design/tactopus-inclusive-learning-with-mr/the-tactopus-phone-stand.md)
+    * [The Hungry Number Monster](design-pages/product-design/tactopus-inclusive-learning-with-mr/the-hungry-number-monster.md)
 * [🛺 Interaction Design](design-pages/interaction-design/README.md)
   * [Links: Connections finder](design-pages/interaction-design/links-connections-finder.md)
   * [Audio Immersion Space](design-pages/interaction-design/audio-immersion-space.md)
@@ -46,6 +53,7 @@
 * [Metaphors in HCI](research-pages/metaphors-in-hci.md)
 * [Packaging Accessibility](research-pages/packaging-accessibility.md)
 * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
+* [Learning Levels Assessment Among Blind School Students](research-pages/learning-levels-assessment-among-blind-school-students.md)
 
 ## 🚴 Teaching
 
