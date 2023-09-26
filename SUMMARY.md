@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-  * [About](readme/about.md)
+  * [About](about.md)
 
 ## 🛸 Design Pages
 
@@ -58,7 +58,7 @@
 
 ## 🚴 Teaching
 
-* [Foundations in HCI](teaching/foundations-in-hci/README.md)
+* [Foundations in HCI](teaching/foundations-in-hci.md)
   * [Design Tools](teaching/foundations-in-hci/design-tools.md)
   * [Select Student Work](teaching/foundations-in-hci/select-student-work.md)
 * [Design for XR](teaching/design-for-xr.md)
