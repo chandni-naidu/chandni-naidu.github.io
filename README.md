@@ -6,10 +6,9 @@ description: >-
 
 # Home
 
-* [product-design](design-pages/product-design/ "mention")
-*
+Explore projects and notes through the medu on the left (or top-left on mobile devices)&#x20;
 
-
+I'm in the process of migrating from Notion to here.
 
 
 
