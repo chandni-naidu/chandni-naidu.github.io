@@ -1,2 +1,0 @@
-# Interactive Tactile Graphics
-
