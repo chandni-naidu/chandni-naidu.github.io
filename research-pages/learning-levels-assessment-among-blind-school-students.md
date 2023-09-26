@@ -74,4 +74,4 @@ The tests revealed multiple areas of opportunity for education for the visually 
 
 ### Gallery
 
-![](<../.gitbook/assets/image (124).png>)
+<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>

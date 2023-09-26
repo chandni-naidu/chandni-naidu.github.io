@@ -1,2 +1,0 @@
-# Accessibility and Inclusive Design
-

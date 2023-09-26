@@ -10,14 +10,9 @@
 * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
 * [Learning Levels Assessment Among Blind School Students](research-pages/learning-levels-assessment-among-blind-school-students.md)
 
-## 🚴 Teaching
+## 🚲 Teaching
 
-* [Foundations in HCI](teaching/foundations-in-hci.md)
-  * [Design Tools](teaching/foundations-in-hci/design-tools.md)
-  * [Select Student Work](teaching/foundations-in-hci/select-student-work.md)
-* [Design for XR](teaching/design-for-xr.md)
-* [Digital Storytelling](teaching/digital-storytelling.md)
-* [Accessibility and Inclusive Design](teaching/accessibility-and-inclusive-design.md)
+* [Courses Taught](teaching/courses-taught.md)
 
 ## 🛵 Talks
 
