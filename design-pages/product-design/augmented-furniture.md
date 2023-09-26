@@ -4,7 +4,7 @@ description: Zero-to-one product design for an augmented reality startup based i
 
 # Augmented Furniture
 
-{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/ff24f4c1-af43-4279-9e4d-27099d8d2f1b/Actuality_gif.gif?downloadName=Actuality+gif.gif&expirationTimestamp=1695859200000&id=4f288140-5f68-4959-a42d-91ff3ae55cc0&signature=K99jU880B0wx1DirSS4TfknBSy_R0v5FfeXld8tq7os&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
+{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/350fe86c-e0d7-49c6-a3af-cb49fc20fd08/Actuality_gif.gif?downloadName=Actuality+gif.gif&expirationTimestamp=1695808800000&id=895186f5-53cf-4453-a46c-d90fa5407262&signature=lKW6y1YDIremcKRZsTK78_MvtNNJOTpnQ180eSQ0-kA&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
