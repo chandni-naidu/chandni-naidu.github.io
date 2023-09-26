@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "992d65eff91ebdef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e20c411b4b4b5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ec85e12b29f980",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2069d7cfb9572b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "af9c2c56f9432855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87516c277a365235",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "d02b4b0ced020e4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5141f8d7bfe0078",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d8b4592135d4f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e78db683a1ba79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2598be44bdc6e549",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3158341fe3ca59b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "About.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5e5f1f2d072077f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d5514ca254de19d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "About.md"
+              }
+            }
+          },
+          {
+            "id": "d39224587b6c6b21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "0d16708557511f12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "87516c277a365235",
+  "lastOpenFiles": [
+    "Contact.md",
+    "Home.md",
+    "About.md",
+    "2023-09-26.md",
+    "Images/Pasted image 20230926083310.png",
+    "index.md",
+    "Images",
+    "Design/Interaction Design/Accessible Keyboard (CHI 2016).md",
+    "Images/Pasted image 20230926083247.png",
+    "Images/Pasted image 20230926083234.png",
+    "Images/Pasted image 20230926083226.png",
+    "Images/Pasted image 20230926083220.png",
+    "Images/Pasted image 20230926083211.png",
+    "Images/Pasted image 20230926083206.png",
+    "Images/Pasted image 20230926083155.png",
+    "Images/Pasted image 20230926083146.png",
+    "Images/Pasted image 20230926083121.png",
+    "chandni.md",
+    "Research/Overview.md",
+    "Design/Overview.md",
+    "Design/Product Design/Overview.md",
+    "Design/Interaction Design/Overview.md",
+    "Design/Information Visualisation/Overview.md",
+    "Design/Information Visualisation/Uber Wrapped.md",
+    "Design/Game Design/Overview.md",
+    "Design/Architecture/Overview.md",
+    "Teaching/Overview.md",
+    "Talks/Overview.md",
+    "Design/Product Design/Augmented Furniture.md",
+    "Design/Architecture/Urban Heritage of Tanjavur.md",
+    "Research/Metaphors in HCI.md",
+    "Research/HCI for emerging users in India.md",
+    "Design/Architecture/Urban Heritage of Trivandrum.md",
+    "Design/Architecture/Craft and wedding traditions of India.md",
+    "Talks/Assistive Technology - IndiaHCI.md",
+    "Teaching/Fundamentals of HCI.md",
+    "Teaching/Accessibility and Inclusive Design.md",
+    "Talks",
+    "Teaching",
+    "Research",
+    "Design",
+    "Design/Architecture",
+    "Design/Game Design",
+    "Design/Information Visualisation",
+    "Design/Interaction Design",
+    "Design/Product Design"
+  ]
+}
