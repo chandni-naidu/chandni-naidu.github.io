@@ -9,23 +9,13 @@ description: >-
 
 
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 I lead a team of product designers working on bookkeeping (business analytics and accounting integrations.) The team's goal is to make it easy for accountants to manage business finances and compliance with ease.
 
-
-
 Samples from projects I worked on:&#x20;
 
-#### Expense Management
 
-
-
-
-
-
-
-***
 
 ### Note on design leadership
 

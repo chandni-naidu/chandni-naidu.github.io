@@ -6,7 +6,9 @@
 
 * [🐧 Product Design](design-pages/product-design/README.md)
   * [Augmented Furniture](design-pages/product-design/augmented-furniture.md)
-  * [FinanceOS for startups](design-pages/product-design/financeos-for-startups.md)
+  * [FinanceOS for startups](design-pages/product-design/financeos-for-startups/README.md)
+    * [Sync with Xero](design-pages/product-design/financeos-for-startups/sync-with-xero.md)
+    * [Expense Management](design-pages/product-design/financeos-for-startups/expense-management.md)
   * [Game Platform](design-pages/product-design/game-platform.md)
   * [Tactopus: Inclusive Learning with MR](design-pages/product-design/tactopus-inclusive-learning-with-mr.md)
 * [🛺 Interaction Design](design-pages/interaction-design/README.md)
