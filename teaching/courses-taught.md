@@ -2,9 +2,7 @@
 
 {% embed url="https://c-drive.notion.site/Academic-Courses-Taught-a5e96dda03bc42cda8700d2432f82eb2?pvs=4" %}
 
-### Interface Design
-
-[Interface Design: 101](https://www.notion.so/Interface-Design-101-b4dda58f88664366ba4ee4e2927f7410?pvs=21)
+### [Interface Design](https://c-drive.notion.site/Interface-Design-101-b4dda58f88664366ba4ee4e2927f7410)
 
 _Undergraduate Communication Design and Interaction Design_
 
