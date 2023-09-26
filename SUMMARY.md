@@ -22,6 +22,7 @@
 ## 🛸 Design Pages
 
 * [Spatial Interactions](design-pages/spatial-interactions/README.md)
+  * [Augmented Geometry](design-pages/spatial-interactions/augmented-geometry.md)
   * [💺 Augmented Furniture](design-pages/spatial-interactions/augmented-furniture.md)
   * [🛋 Tactopus: Inclusive Learning with MR](design-pages/spatial-interactions/tactopus-inclusive-learning-with-mr/README.md)
     * [Design of Tactile Graphics](design-pages/spatial-interactions/tactopus-inclusive-learning-with-mr/design-of-tactile-graphics.md)
@@ -32,7 +33,7 @@
     * [The Tactopus Phone Stand](design-pages/spatial-interactions/tactopus-inclusive-learning-with-mr/the-tactopus-phone-stand.md)
     * [The Hungry Number Monster](design-pages/spatial-interactions/tactopus-inclusive-learning-with-mr/the-hungry-number-monster.md)
   * [Hand Tracking](design-pages/spatial-interactions/hand-tracking.md)
-  * [Augmented Geometry](design-pages/spatial-interactions/augmented-geometry.md)
+  * [Spatial Color Picker](design-pages/spatial-interactions/spatial-color-picker.md)
 * [Product Design](design-pages/product-design/README.md)
   * [💰 FinanceOS for startups](design-pages/product-design/financeos-for-startups.md)
   * [🎮 Game Platform](design-pages/product-design/game-platform/README.md)
