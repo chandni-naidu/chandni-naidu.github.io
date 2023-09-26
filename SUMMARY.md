@@ -8,7 +8,7 @@
 * [Metaphors in HCI](research-pages/metaphors-in-hci.md)
 * [Packaging Accessibility](research-pages/packaging-accessibility.md)
 * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
-* [Learning Levels Assessment Among Blind School Students](research-pages/learning-levels-assessment-among-blind-school-students.md)
+* [Learning Levels in Blind School Students](research-pages/learning-levels-in-blind-school-students.md)
 
 ## 🚲 Teaching
 
