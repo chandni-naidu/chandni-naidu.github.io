@@ -3,24 +3,6 @@
 * [Home](README.md)
   * [About](about.md)
 
-## 🧀 Research Pages
-
-* [HCI Research](research-pages/hci-research/README.md)
-  * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
-  * [Metaphors in HCI](research-pages/metaphors-in-hci.md)
-* [Not-so-HCI Research](research-pages/not-so-hci-research/README.md)
-  * [Packaging Accessibility](research-pages/packaging-accessibility.md)
-  * [Learning Levels in Blind School Students](research-pages/learning-levels-in-blind-school-students.md)
-
-## 🚲 Teaching
-
-* [Courses Taught](teaching/courses-taught.md)
-
-## 🛵 Talks
-
-* [Assistive Technology: UX India](talks/assistive-technology-ux-india.md)
-* [Inclusive Design: TEDx](talks/inclusive-design-tedx.md)
-
 ## 🛸 Design Pages
 
 * [Spatial Interactions](design-pages/spatial-interactions/README.md)
@@ -65,9 +47,27 @@
   * [Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
   * [Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
 * [Architecture](design-pages/architecture/README.md)
-  * [Public Spaces of India](design-pages/architecture/public-spaces-of-india.md)
-  * [Unfinished: Stone Sculptures of Southern India](design-pages/architecture/unfinished-stone-sculptures-of-southern-india.md)
-  * [Urban Heritage of Tanjavur](design-pages/architecture/urban-heritage-of-tanjavur.md)
-  * [Urban Heritage of Trivandrum](design-pages/architecture/urban-heritage-of-trivandrum.md)
-  * [Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
-  * [Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
+  * [🛴 Public Spaces of India](design-pages/architecture/public-spaces-of-india.md)
+  * [🔨 Unfinished: Stone Sculptures of Southern India](design-pages/architecture/unfinished-stone-sculptures-of-southern-india.md)
+  * [🛕 Urban Heritage of Tanjavur](design-pages/architecture/urban-heritage-of-tanjavur.md)
+  * [🛕 Urban Heritage of Trivandrum](design-pages/architecture/urban-heritage-of-trivandrum.md)
+  * [🛕 Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
+  * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
+
+## 🧀 Research Pages
+
+* [HCI Research](research-pages/hci-research/README.md)
+  * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
+  * [Metaphors in HCI](research-pages/metaphors-in-hci.md)
+* [Not-so-HCI Research](research-pages/not-so-hci-research/README.md)
+  * [Packaging Accessibility](research-pages/packaging-accessibility.md)
+  * [Learning Levels in Blind School Students](research-pages/learning-levels-in-blind-school-students.md)
+
+## 🚲 Teaching
+
+* [Courses Taught](teaching/courses-taught.md)
+
+## 🛵 Talks
+
+* [Assistive Technology: UX India](talks/assistive-technology-ux-india.md)
+* [Inclusive Design: TEDx](talks/inclusive-design-tedx.md)
