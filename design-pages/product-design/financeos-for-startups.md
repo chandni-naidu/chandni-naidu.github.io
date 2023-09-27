@@ -1,8 +1,8 @@
 ---
 description: >-
-  Work from my time as a Sr. Product Designer and Product Design Lead at Aspire,
-  a catch-all finance application for startups and small businesses in
-  South-east Asia.
+  Work from my time as a Sr. Product Designer and Product Design Lead at a
+  catch-all finance application for startups and small businesses in South-east
+  Asia.
 ---
 
 # 💰 FinanceOS for startups

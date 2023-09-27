@@ -8,7 +8,7 @@
 
 In the product test we ran, both vertical and horizontal swiping were enabled.
 
-Usage data showed a clear preference for vertical swiping. There could also be an ergonomic factor involved. Left-right swiping is more tedious than vertical, and is easier with a tap-for-next interaction that Instagram stories made popular. This was tested separately in the stories feature introduced in one of the main Popcore games. We saw similar results - users only watched one video of each game. It supports the notion that the game really are very simple to grasp.
+Usage data showed a clear preference for vertical swiping. There could also be an ergonomic factor involved. Left-right swiping is more tedious than vertical, and is easier with a tap-for-next interaction that Instagram stories made popular. This was tested separately in the stories feature introduced in one of the main games. We saw similar results - users only watched one video of each game. It supports the notion that the game really are very simple to grasp.
 
 This navigation pattern was replaced by a simpler vertical-scroll feed.
 
@@ -18,7 +18,7 @@ In parallel, during the deployment cycle, I interviewed users who played hyper-c
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-At this point, we were also considering if popcore's games could fit into this app or be better as a separate product - PopGames (now names PlayTime). We were waiting for a long-promised Unity feature that allowed for 3D games to be converted to HTML. With Popcore's own games, we could make it possible for users to play sample levels before downloading, with the hope to increase install rates. This product roadmap compares the player experience between the two types of discovery, to enable better decision making.
+At this point, we were also considering if the games could fit into this app or be better as a separate product - PopGames (now names PlayTime). We were waiting for a long-promised Unity feature that allowed for 3D games to be converted to HTML. With our own games, we could make it possible for users to play sample levels before downloading, with the hope to increase install rates. This product roadmap compares the player experience between the two types of discovery, to enable better decision making.
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
