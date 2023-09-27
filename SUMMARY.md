@@ -5,10 +5,12 @@
 
 ## 🧀 Research Pages
 
-* [Metaphors in HCI](research-pages/metaphors-in-hci.md)
-* [Packaging Accessibility](research-pages/packaging-accessibility.md)
-* [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
-* [Learning Levels in Blind School Students](research-pages/learning-levels-in-blind-school-students.md)
+* [HCI Research](research-pages/hci-research/README.md)
+  * [HCI for emerging users in India](research-pages/hci-research/hci-for-emerging-users-in-india.md)
+  * [Metaphors in HCI](research-pages/hci-research/metaphors-in-hci.md)
+* [Not-so-HCI Research](research-pages/not-so-hci-research/README.md)
+  * [Packaging Accessibility](research-pages/not-so-hci-research/packaging-accessibility.md)
+  * [Learning Levels in Blind School Students](research-pages/not-so-hci-research/learning-levels-in-blind-school-students.md)
 
 ## 🚲 Teaching
 

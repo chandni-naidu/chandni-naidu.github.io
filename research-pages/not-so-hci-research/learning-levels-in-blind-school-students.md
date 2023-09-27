@@ -1,4 +1,4 @@
-# Learning Levels Assessment Among Blind School Students
+# Learning Levels in Blind School Students
 
 ### Objective
 
@@ -8,13 +8,13 @@ Having worked closely with several blind schools in India, we found the need for
 
 According to the 2011 Census, only 61% of India’s disabled population in the age group of 5-19 years attends an educational institution. The National Policy for People with Disabilities(2006) intends to ensure that every child with a disability has access to appropriate pre-school, primary and secondary level education by 2020. With one more year to the deadline, and the number of children with disabilities attending schools slowly going up, how do we analyse the quality of education they receive. Students with visual impairments face many detractors in their learning environment which can have a cumulative impact on the learning achievement of visually impaired students. The objective of this paper is to evaluate the learning achievement of students who have completed primary education in India, viz. Fifth grade, with and without visual impairments through a baseline assessment. The paper reveals the need for a tactile, spatial approach to learning with a focus on auditory learning along with prioritising the improvement of Braille fluency and developing new tools for Mathematics learning.
 
-![](<../.gitbook/assets/image (119).png>)
+![](<../../.gitbook/assets/image (119).png>)
 
 ### Test Design
 
 In order to ensure that the tests were fair to students with visual impairment, the test material was created in traditional print form as well as adapted to tactile material, braille, and Taylor frame, etc. The methods were reviewed by four completely blind individuals of which two were students and one a special educator in a blind school. The reviews helped to incorporate necessary accommodations. The test was also reviewed with two sighted special educators in a blind school.
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 ### Participants
 
@@ -28,9 +28,9 @@ The participants in this study were 10 students who have completed grade 5. 4 of
 
 The participants in this study were 15 students who have completed grade 5 and entered grade 6 a month before the test happened. All of the students were sighted and were in the age group of 11 to 13. All the participants attended a mainstream private school in Bangalore city.
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 ### Discussion
 
@@ -70,8 +70,8 @@ In Test 7 sighted children were able to pick up cues from the solutions of their
 
 The tests revealed multiple areas of opportunity for education for the visually impaired that should be prioritized and tackled to ensure a truly inclusive education for all students.
 
-![](<../.gitbook/assets/image (123).png>)
+![](<../../.gitbook/assets/image (123).png>)
 
 ### Gallery
 
-<figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ description: >-
   sections as a middle school math learner
 ---
 
-# Augmented Geometry
+# 🧊 Augmented Geometry
 
 Workflow: Sketches on paper --> Blender --> Aero
 
