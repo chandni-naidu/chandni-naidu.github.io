@@ -47,12 +47,12 @@
   * [Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
   * [Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
 * [Architecture](design-pages/architecture/README.md)
-  * [🛴 Public Spaces of India](design-pages/architecture/public-spaces-of-india.md)
+  * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
   * [🔨 Unfinished: Stone Sculptures of Southern India](design-pages/architecture/unfinished-stone-sculptures-of-southern-india.md)
   * [🛕 Urban Heritage of Tanjavur](design-pages/architecture/urban-heritage-of-tanjavur.md)
   * [🛕 Urban Heritage of Trivandrum](design-pages/architecture/urban-heritage-of-trivandrum.md)
   * [🛕 Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
-  * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
+  * [🛴 Public Spaces of India](design-pages/architecture/public-spaces-of-india.md)
 
 ## 🧀 Research Pages
 
