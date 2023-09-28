@@ -3,7 +3,7 @@ cover: ../../.gitbook/assets/image (1) (1).png
 coverY: 0
 ---
 
-# Workings of the Indian Government: Essays in Data
+# 🇮🇳 Workings of the Indian Government: Essays in Data
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,9 +40,36 @@ It is a fairly ambitious project goal, to attempt demystifying government machin
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+### Approach
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+After a few weeks of explorations using data visualisation tools to indentify potenial areas of focus, I narrowed into one of the topics that seemed to be least understood: the way our laws are made.&#x20;
+
+The definition of a nation is not only its soveriegn territory, but also the rules we agree to function by. The threads of law and legislative processes unite us in a common bond of citizenship.&#x20;
+
+Yet, something so fundamental is discussed very little in education, news and other media.&#x20;
+
+
+
+### Design Iterations
+
+To design tools for people to understand our legislative processes better, I collected chronological data on the historical proceedings on two subjects:
+
+1. Changes in animal Rights laws that were protested widely (commonly known as the Jallikattu protests)
+2. History of Transgender rights
+
+These two were chosen as their histories are shaped by the involvement of different parts of the government and public opinion.&#x20;
+
+
+
+### Interface Design
+
+A desktop interface was designed to help users interact with the history of a bill/law in an interactive space that consisted of:
+
+1. Timline
+2. 3D visuals of the adinistrative district in Delhi that covers all important stakeholders (or representatives)
+3. Chat interface to explore the storyline&#x20;
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
@@ -53,6 +80,8 @@ It is a fairly ambitious project goal, to attempt demystifying government machin
 <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+The project demonstrates the application of spatially situated storytelling to help follow along the journey of a bill as it gets enacted into law.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Raj Path and other important buildings</p></figcaption></figure>
 
