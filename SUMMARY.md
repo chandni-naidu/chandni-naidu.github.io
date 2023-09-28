@@ -43,9 +43,9 @@
   * [Weaving Game](design-pages/game-design/weaving-game.md)
 * [Designing with Data](design-pages/dataviz/README.md)
   * [🇮🇳 Workings of the Indian Government: Essays in Data](design-pages/dataviz/workings-of-the-indian-government-essays-in-data.md)
-  * [Uber Wrapped](design-pages/dataviz/uber-wrapped.md)
-  * [Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
-  * [Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
+  * [🚕 Uber Wrapped](design-pages/dataviz/uber-wrapped.md)
+  * [🥘 Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
+  * [🐦 Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
 * [Architecture](design-pages/architecture/README.md)
   * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
   * [🔨 Technical Illustrations for the Book "The Unfinished: The Stone Carvers at Work in the Indian Subcon](design-pages/architecture/technical-illustrations-for-the-book-the-unfinished-the-stone-carvers-at-work-in-the-indian-subcon.md)
@@ -55,11 +55,11 @@
 ## 🧀 Research Pages
 
 * [HCI Research](research-pages/hci-research/README.md)
-  * [HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
-  * [Metaphors in HCI](research-pages/metaphors-in-hci.md)
+  * [🇮🇳 HCI for emerging users in India](research-pages/hci-for-emerging-users-in-india.md)
+  * [🍕 Metaphors in HCI](research-pages/metaphors-in-hci.md)
 * [Not-so-HCI Research](research-pages/not-so-hci-research/README.md)
-  * [Packaging Accessibility](research-pages/packaging-accessibility.md)
-  * [Learning Levels in Blind School Students](research-pages/learning-levels-in-blind-school-students.md)
+  * [📦 Packaging Accessibility](research-pages/packaging-accessibility.md)
+  * [🏰 Learning Levels in Blind School Students](research-pages/learning-levels-in-blind-school-students.md)
 
 ## 🚲 Teaching
 
