@@ -4,7 +4,7 @@ description: Game platform design fora hyper-casual game startup
 
 # 🎮 Game Platform
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
