@@ -1,12 +1,13 @@
 # 🔨 Technical Illustrations for the Book "The Unfinished: The Stone Carvers at Work in the Indian Subcon
 
-[**Amazon Link**](https://www.amazon.com/Unfinished-Stone-Carvers-Indian-Subcontinent/dp/9351941140)
+When I was a student at NIT Trichy, I got the opportunity to work with Prof. Vidya Dehejia and Sculptor Peter Rockwell. The assignment was to create technical illustrations for the book they were working on, to decipher the stone sculpting technology and process by studying rock cut temples and other samples of stone carvers' work in various stages of completion
 
-📔 The sheer number of unfinished stone monuments in India is staggering and examples appear at some of India's most famous and well-studied sites that include rock-cut Ellora, Ajanta, and Mamallapuram. Unfinished work also appears on built temples celebrated for the intricacy of their sculpted decoration, such as those in Hoysala kingdom or in Orissa. This detailed study provides an overall coverage of India's unfinished work while addressing a range of issues related to stone-carving by examining a select number of monuments at specific sites. Instead of focusing on a site in its entirety, the study here focuses on specific issues of consequence in the context of unfinished work, as they gain an added weight and significance through discovery of their repetitive occurrence at site after site. At the heart of this book are the many varieties of unfinished stone carving that merit close observation to see what is there and what is not, and to appreciate that all the finished work has been through these various stages of being unfinished before reaching completion.
+📔 Buy the book here: [**Amazon Link**](https://www.amazon.com/Unfinished-Stone-Carvers-Indian-Subcontinent/dp/9351941140)
+
+Blurb:  The sheer number of unfinished stone monuments in India is staggering and examples appear at some of India's most famous and well-studied sites that include rock-cut Ellora, Ajanta, and Mamallapuram. Unfinished work also appears on built temples celebrated for the intricacy of their sculpted decoration, such as those in Hoysala kingdom or in Orissa. This detailed study provides an overall coverage of India's unfinished work while addressing a range of issues related to stone-carving by examining a select number of monuments at specific sites. Instead of focusing on a site in its entirety, the study here focuses on specific issues of consequence in the context of unfinished work, as they gain an added weight and significance through discovery of their repetitive occurrence at site after site. \
+At the heart of this book are the many varieties of unfinished stone carving that merit close observation to see what is there and what is not, and to appreciate that all the finished work has been through these various stages of being unfinished before reaching completion.
 
 ***
-
-When I was a student at NIT Trichy, I got the opportunity to work with Prof. Vidya Dehejia and Sculptor Peter Rockwell. The assignment was to create technical illustrations for the book they were working on, to decipher the stone sculpting technology and process by studying rock cut temples and other samples of stone carvers' work in various stages of completion
 
 <div>
 

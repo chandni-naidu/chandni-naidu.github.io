@@ -50,9 +50,7 @@
   * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
   * [🔨 Technical Illustrations for the Book "The Unfinished: The Stone Carvers at Work in the Indian Subcon](design-pages/architecture/technical-illustrations-for-the-book-the-unfinished-the-stone-carvers-at-work-in-the-indian-subcon.md)
   * [🛕 Urban Heritage of Tanjavur](design-pages/architecture/urban-heritage-of-tanjavur.md)
-  * [🛕 Urban Heritage of Trivandrum](design-pages/architecture/urban-heritage-of-trivandrum.md)
   * [🛕 Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
-  * [🛴 Public Spaces of India](design-pages/architecture/public-spaces-of-india.md)
 
 ## 🧀 Research Pages
 

@@ -1,2 +1,0 @@
-# 🛕 Urban Heritage of Trivandrum
-

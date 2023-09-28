@@ -1,2 +1,0 @@
-# 🛴 Public Spaces of India
-
