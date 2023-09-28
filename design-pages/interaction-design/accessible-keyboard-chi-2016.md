@@ -42,7 +42,7 @@ Clearly, having a tangible edge as a marker made the action considerably easier.
 
 ### Full poster
 
-<figure><img src="../../.gitbook/assets/ch_1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ch_1 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Product Demo
 

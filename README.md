@@ -26,7 +26,9 @@ Explore projects and notes through the menu on the left (or top-left on mobile d
 
 Happy browsing!
 
+I do have some favourites to highlight:&#x20;
 
+![](.gitbook/assets/ch\_1.jpg)
 
 
 

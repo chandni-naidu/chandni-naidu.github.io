@@ -24,7 +24,7 @@ This was my first time dealing with this degree of complexity in data, largely q
 
 We were able to compare and contrast attitudes towards WhatsApp vs Facebook, the innovative appropriation of WhatsApp into a business communication tool by small time traders, mechanics, and other service professionals.
 
-<figure><img src="../.gitbook/assets/ch_1 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ch_1 (1) (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/ch_6 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
