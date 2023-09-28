@@ -47,7 +47,6 @@
   * [🥘 Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
   * [🐦 Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
 * [Architecture](design-pages/architecture/README.md)
-  * [🔥 Foundations in Design](design-pages/architecture/foundations-in-design.md)
   * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
   * [🔨 Technical Illustrations for the Book "The Unfinished: The Stone Carvers at Work in the Indian Subcon](design-pages/architecture/technical-illustrations-for-the-book-the-unfinished-the-stone-carvers-at-work-in-the-indian-subcon.md)
   * [🛕 Urban Heritage of Tanjavur](design-pages/architecture/urban-heritage-of-tanjavur.md)
@@ -70,3 +69,8 @@
 
 * [Assistive Technology: UX India](talks/assistive-technology-ux-india.md)
 * [Inclusive Design: TEDx](talks/inclusive-design-tedx.md)
+
+## 🍉 Blog
+
+* [Structures of Access](blog/structures-of-access.md)
+* [Foundations in Design](blog/foundations-in-design.md)

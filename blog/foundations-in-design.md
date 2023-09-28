@@ -1,4 +1,4 @@
-# 🔥 Foundations in Design
+# Foundations in Design
 
 What it's like being an intern in an architecture studio founded by over-achieving celebrity architects, and junior architects who worship at the altar of perfection with sweat, blood and tears.
 
@@ -16,13 +16,13 @@ This is the glorious building I cut my teeth on. The studio must have made thous
 
 [alila](http://hundredhands.com/alila.html)
 
-<figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
 The next task I was given was to do the bathroom tiling layout.
 
 Until this point, I did not know such a thing was required to lay tiles on a bathroom. Ever noticed oddly cut tiles like this? This would just not do in a "luxury" apartment. It had to be perfectly resolved with clever math, planning and precision. The kind you couldn't trust a mason with.
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 And to get this drawing right, I had to do it over 6 times. It wasn't because of the tiles, I got that right the first time. But my drawings were a nightmare. If I could go into the server archives of Hundredhands and look for drawings made in June 2010, I'd be very embarrassed, but also it would be good to see what I did not know.
 
