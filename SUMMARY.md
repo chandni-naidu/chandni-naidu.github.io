@@ -43,7 +43,7 @@
   * [Weaving Game](design-pages/game-design/weaving-game.md)
 * [DataViz](design-pages/dataviz/README.md)
   * [Workings of the Indian Government: Essays in Data](design-pages/dataviz/workings-of-the-indian-government-essays-in-data.md)
-  * [Uber wrapped](design-pages/dataviz/uber-wrapped.md)
+  * [Uber Wrapped](design-pages/dataviz/uber-wrapped.md)
   * [Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
   * [Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
 * [Architecture](design-pages/architecture/README.md)
