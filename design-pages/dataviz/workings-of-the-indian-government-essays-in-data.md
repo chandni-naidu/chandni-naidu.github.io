@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/image (1).png
+cover: ../../.gitbook/assets/image (1) (1).png
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Possibly the most powerful square kilometer of the country: Lutyen's Delhi. <br>(3D-modelled in detail on Sketchup)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Possibly the most powerful square kilometer of the country: Lutyen's Delhi. <br>(3D-modelled in detail on Sketchup)</p></figcaption></figure>
 
 ### Abstract
 
@@ -56,5 +56,5 @@ It is a fairly ambitious project goal, to attempt demystifying government machin
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Raj Path and other important buildings</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The (old) parliament building</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The (old) parliament building</p></figcaption></figure>
 

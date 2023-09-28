@@ -6,9 +6,11 @@ description: >-
 
 # Home
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 This is a repository of 16 years of work as a **designer, artist, architect, entrepreneur and educator**. As much as I'd love to give you an easy snapshot of my journey, it's important to me that I resist the reductive force of ever-changing industry labels.
 
-To learn more about my relationship to work, see [about.md](about.md "mention")
+To learn more about my relationship to my work, see [about.md](about.md "mention")
 
 This is also an early digital garden, I hope to continue to write about my work here. I've tried blogging, micro-blogging and newsletters, none of those formats help me think and communicate freely. Some types of work must be protected from productisation to have any shot at survival and growth.
 
