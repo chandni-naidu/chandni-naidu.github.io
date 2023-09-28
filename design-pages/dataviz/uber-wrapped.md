@@ -4,7 +4,7 @@ description: >-
   understanding of our lives and behaviour.
 ---
 
-# Uber Wrapped
+# 🚕 Uber Wrapped
 
 To explore more peronal data, I got access to 4 years of my data from Uber to see what I could learn from analysing and visualising it.
 
@@ -16,5 +16,5 @@ My usage before the pandemic was significant. It was my daily commute and often 
 
 I would not have guessed that my annual expenditure of cab services would amount to \~USD$1500. Feel pretty good about having bought a car now.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Visualisation of my rides in the city of Bangalore</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Visualisation of my rides in the city of Bangalore</p></figcaption></figure>
 

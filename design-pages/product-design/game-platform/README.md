@@ -4,7 +4,7 @@ description: Game platform design fora hyper-casual game startup
 
 # 🎮 Game Platform
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -23,8 +23,3 @@ One of them, Playlist, is an app for mobile game enthusiasts to save games they'
 {% hint style="success" %}
 If our experience were to prioritise **game discovery**, what would that look like?
 {% endhint %}
-
-
-
-
-

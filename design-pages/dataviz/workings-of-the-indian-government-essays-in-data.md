@@ -1,13 +1,13 @@
 ---
-cover: ../../.gitbook/assets/image (1) (1).png
+cover: ../../.gitbook/assets/image (1) (1) (1).png
 coverY: 0
 ---
 
 # 🇮🇳 Workings of the Indian Government: Essays in Data
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Possibly the most powerful square kilometer of the country: Lutyen's Delhi. <br>(3D-modelled in detail on Sketchup)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Possibly the most powerful square kilometer of the country: Lutyen's Delhi. <br>(3D-modelled in detail on Sketchup)</p></figcaption></figure>
 
 ### Abstract
 
@@ -30,15 +30,15 @@ On the other hand, the layperson is, and ought to be, heavily invested in the pr
 
 It is a fairly ambitious project goal, to attempt demystifying government machinery. Even if one were familiar with every law, rule and exception, would one be able to form a clear mental model of how all of its parts work with each other, complete with causal relationships?
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Approach
 
@@ -69,21 +69,21 @@ A desktop interface was designed to help users interact with the history of a bi
 2. 3D visuals of the adinistrative district in Delhi that covers all important stakeholders (or representatives)
 3. Chat interface to explore the storyline&#x20;
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 The project demonstrates the application of spatially situated storytelling to help follow along the journey of a bill as it gets enacted into law.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Raj Path and other important buildings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Raj Path and other important buildings</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The (old) parliament building</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>The (old) parliament building</p></figcaption></figure>
 

@@ -6,7 +6,7 @@ description: >-
 
 # Home
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 This is a repository of 16 years of work as a **designer, artist, architect, entrepreneur and educator**. As much as I'd love to give you an easy snapshot of my journey, it's important to me that I resist the reductive force of ever-changing industry labels.
 

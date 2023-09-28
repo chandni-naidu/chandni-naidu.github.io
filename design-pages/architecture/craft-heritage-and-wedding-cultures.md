@@ -24,11 +24,11 @@ Tanishq is India's most admired jewelry brand, with stores in all cities in the 
 
 <figure><img src="../../.gitbook/assets/ch_6 (3).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ch_7 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ch_7 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ch_8 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ch_8 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ch_9 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ch_9 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 I spent about 8 months on this project, 4 for research and developing relationships with artists, craftspeople, understanding wedding cultures in India, and refining the design objectives. The store launched in Camac Street, Kolkata to a lot of media coverage, was on the cover of a leading retail magazine, and won several awards.
 

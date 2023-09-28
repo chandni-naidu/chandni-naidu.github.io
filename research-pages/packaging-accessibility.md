@@ -1,4 +1,4 @@
-# Packaging Accessibility
+# 📦 Packaging Accessibility
 
 ### Research: Inquiry Into Experience of Packaging for People with Vision Loss
 

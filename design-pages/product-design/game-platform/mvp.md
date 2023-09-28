@@ -1,6 +1,6 @@
 # MVP
 
-![](<../../../.gitbook/assets/image (19) (1).png>)
+![](<../../../.gitbook/assets/image (19) (1) (1).png>)
 
 The MVP was a video feed with game meta data - Title, hashtags classifying the game experience. With this basic starting point, there were many open-ended questions still.
 

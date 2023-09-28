@@ -4,7 +4,7 @@ description: >-
   understanding of our lives and behaviour.
 ---
 
-# Food Orders, Wrapped
+# 🥘 Food Orders, Wrapped
 
 I spent my 2022 between Delhi, India and Nairobi, Kenya.
 

@@ -1,4 +1,4 @@
-# Design of Tactile Graphics
+# 1⃣ Design of Tactile Graphics
 
 ### Tactile Information Design
 
@@ -8,13 +8,13 @@ This was a month-long summer internship at XRCVC, and my brief was to set up the
 
 A thermoforming machine uses heat and vaccum to replicte the form of a hard mould, onto a sheet of plastic. This plastic sheet with tactile information is used by people with vision impairment to access imagery that is otherwise inaccessible in print format.Here are some explorations to understand the medium and material.
 
-![](<../../../.gitbook/assets/image (24).png>)![](<../../../.gitbook/assets/image (26).png>)![](<../../../.gitbook/assets/image (27).png>)![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (24) (1).png>)![](<../../../.gitbook/assets/image (26) (1).png>)![](<../../../.gitbook/assets/image (27) (1).png>)![](<../../../.gitbook/assets/image (28) (1).png>)
 
 In order to test this process, I had to create some moulds. The kind of heat-resistant material I needed for 3D printing wasn't immediately available then, so I started the process with manually created moulds.
 
 I used Open Topography data to create 3D models of the terrain at micro level - few square kilometres, as well as regions the size of cities. Larger the area to be represented, the flatter the area looks. The features don't stand out as much as one might have imagined. I worked around this with some creative exaggerations for the sake of clarity.
 
-![](<../../../.gitbook/assets/image (29).png>)![](<../../../.gitbook/assets/image (30).png>)![](<../../../.gitbook/assets/image (31).png>)![](<../../../.gitbook/assets/image (32).png>)
+![](<../../../.gitbook/assets/image (29) (1).png>)![](<../../../.gitbook/assets/image (30) (1).png>)![](<../../../.gitbook/assets/image (31) (1).png>)![](<../../../.gitbook/assets/image (32) (1).png>)
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="375"><figcaption><p>Best results were formed on APH's thermoforming sheets. We also found a local source of plastic sheets that works nearly as well, but created lots of creases that compromise graphic quality.</p></figcaption></figure>
 

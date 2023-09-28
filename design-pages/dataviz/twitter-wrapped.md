@@ -4,7 +4,7 @@ description: >-
   understanding of our lives and behaviour.
 ---
 
-# Twitter Wrapped
+# 🐦 Twitter Wrapped
 
 <figure><img src="../../.gitbook/assets/image 24.png" alt=""><figcaption></figcaption></figure>
 

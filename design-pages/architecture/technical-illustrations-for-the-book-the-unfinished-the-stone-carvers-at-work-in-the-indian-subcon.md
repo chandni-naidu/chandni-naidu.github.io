@@ -29,7 +29,7 @@ At the heart of this book are the many varieties of unfinished stone carving tha
 
 <figure><img src="../../.gitbook/assets/ch_4 (2).jpg" alt=""><figcaption><p>Shrines carved out of large boulders, in various stages of finish</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ch_5 (1).jpg" alt=""><figcaption><p>Arjuna's Penance, highlighting the progress of the artist(s)and possibly unfinished portions.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ch_5 (1) (1).jpg" alt=""><figcaption><p>Arjuna's Penance, highlighting the progress of the artist(s)and possibly unfinished portions.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/ch_6 (2).jpg" alt=""><figcaption><p>The lower levels of the Brihadeeshwara temple, a UNESCO world heritage site. The temple is over 2000 years old.</p></figcaption></figure>
 

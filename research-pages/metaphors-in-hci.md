@@ -5,7 +5,7 @@ description: >-
   metaphors for different user groups.
 ---
 
-# Metaphors in HCI
+# 🍕 Metaphors in HCI
 
 ### What are metaphors in HCI?
 
