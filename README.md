@@ -24,7 +24,7 @@ Everything here can be chronologically listed under:
 
 Explore projects and notes through the menu on the left (or top-left on mobile devices)&#x20;
 
-Happy browsing.
+Happy browsing!
 
 
 
