@@ -6,7 +6,7 @@
 
 Design Degree Show is the annual convention of IDC School of Design, IIT Bombay. It's a platform for the graduating batch of students to showcase their work in a physical and virtual exhibition. It is organised by the graduating batch, working in committees such as events, venue, display, speakers, social media, promotions, sponsors, and digital experience (which I had taken responsibility for).
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 * For interested participants to find information about the event.
 * Target audience: industry professionals, students, design enthusiasts, design community
@@ -16,7 +16,7 @@ Design Degree Show is the annual convention of IDC School of Design, IIT Bombay.
 
 The visual design, branding, student photo-shoot and social media collaterals for the site were created by Sachit Shyam and Rishabh Pandey of Communication Design stream.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
