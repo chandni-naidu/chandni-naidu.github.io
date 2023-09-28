@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Home ※\\(^o^)/※](README.md)
   * [About](about.md)
 
 ## 🛸 Design Pages
