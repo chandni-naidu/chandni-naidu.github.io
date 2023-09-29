@@ -6,8 +6,6 @@ description: >-
 
 # Home
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
-
 This is a repository of 16 years of work as a **designer, artist, architect, entrepreneur and educator**. As much as I'd love to give you an easy snapshot of my journey, it's important to me that I resist the reductive force of ever-changing industry labels.
 
 To learn more about my relationship to my work, see [about.md](about.md "mention")
@@ -26,9 +24,24 @@ Explore projects and notes through the menu on the left (or top-left on mobile d
 
 Happy browsing!
 
-I do have some favourites to highlight:&#x20;
+***
 
-![](.gitbook/assets/ch\_1.jpg)
+I do have some favorites to highlight:&#x20;
+
+1.  The Hungry Number Monster, an inclusive educational product designed, produced and marketed by <mark style="color:red;">**Tactopus (acquired)**</mark>\
+    _Role: Founder, designer_\
+    [the-hungry-number-monster.md](design-pages/spatial-interaction-design/tactopus-inclusive-learning-with-mr/the-hungry-number-monster.md "mention")\
+
+
+    <figure><img src=".gitbook/assets/ch_1.jpg" alt=""><figcaption></figcaption></figure>
+2. Card page redesign for Aspire, YC W18\
+   _Role: Sr. Product Designer on the Expense Management Team_\
+   [financeos-for-startups.md](design-pages/product-design/financeos-for-startups.md "mention")\
+
+3. Learning about light with mirrors, a residency project at Agastya Foundation\
+   [libo-mirror-game-to-learn-light-behavior-for-agastya-foundation.md](design-pages/game-design/libo-mirror-game-to-learn-light-behavior-for-agastya-foundation.md "mention")
+
+
 
 
 
