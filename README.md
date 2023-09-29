@@ -1,7 +1,7 @@
 ---
 description: >-
   Welcome to my archive of design documents, research notes and ongoing quests 
-  ※\(^o^)/※
+  ※ \(^o^)/ ※
 ---
 
 # Home
