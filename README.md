@@ -36,9 +36,11 @@ I do have some favorites to highlight:&#x20;
     <figure><img src=".gitbook/assets/ch_1.jpg" alt=""><figcaption></figcaption></figure>
 2. Card page redesign for Aspire, YC W18\
    _Role: Sr. Product Designer on the Expense Management Team_\
-   [financeos-for-startups.md](design-pages/product-design/financeos-for-startups.md "mention")\
+   [financeos-for-startups.md](design-pages/product-design/financeos-for-startups.md "mention")
 
-3. Learning about light with mirrors, a residency project at Agastya Foundation\
+{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/4458a84f-feca-4b76-ab68-4e2f86ce3836/new_cards_side_by_side.gif?downloadName=new+cards+side+by+side.gif&expirationTimestamp=1696068000000&id=46136fec-b9b3-4697-820c-965a4a9d0f8b&signature=ANIubd6BgyTTIrzvC3jSBrZAYTf24v53g9nWzG2HogU&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
+
+1. Learning about light with mirrors, a residency project at Agastya Foundation\
    [libo-mirror-game-to-learn-light-behavior-for-agastya-foundation.md](design-pages/game-design/libo-mirror-game-to-learn-light-behavior-for-agastya-foundation.md "mention")
 
 

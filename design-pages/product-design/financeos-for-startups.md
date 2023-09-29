@@ -28,7 +28,7 @@ I lead a team of product designers working on bookkeeping (business analytics an
 * Physical Cards
 * Burner cards
 
-{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/f0d9aefe-7816-46e6-821f-c4ca4bb7e44a/aspire_card_budget.gif?downloadName=aspire+card+budget.gif&expirationTimestamp=1695808800000&id=f0e7c08f-9a4a-4328-8630-7a4146ca381e&signature=QxHm9viNese_sYAtgSn6VmxUld12OvD-AHWT6x6DE0o&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
+{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/4458a84f-feca-4b76-ab68-4e2f86ce3836/new_cards_side_by_side.gif?downloadName=new+cards+side+by+side.gif&expirationTimestamp=1696068000000&id=46136fec-b9b3-4697-820c-965a4a9d0f8b&signature=ANIubd6BgyTTIrzvC3jSBrZAYTf24v53g9nWzG2HogU&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
 ### Accounting
 
