@@ -4,7 +4,13 @@
 
 **Virtual Reality Game: Skywalk**
 
-Course: Design for Virtual RealityCourse Guide: Prof. Jayesh PillaiTeam: Ajinkya More, Chandni RajendranBrief: Design a game or interactive experience using virtual reality as a medium.
+Course: Design for Virtual Reality
+
+Course Guide: Prof. Jayesh PillaiT
+
+eam: Ajinkya More, Chandni Naidu
+
+Brief: Design a game or interactive experience using virtual reality as a medium.
 
 Concept: This is a game located in an arbitrary, space like scenario, except the gravitational forces here are exactly as one would find on earth.
 

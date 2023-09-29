@@ -4,7 +4,7 @@ Course work: Game Design
 
 Guide: Prof. Athavankar and Prof. Bapat
 
-Team: Saloni Mehta, Juwin Thomas, Irshath Ahmed
+Team: Saloni Mehta, Juwin Thomas, Irshath Ahmed, Chandni Naidu
 
 <figure><img src="../../.gitbook/assets/ch_1 (5).jpg" alt=""><figcaption></figcaption></figure>
 

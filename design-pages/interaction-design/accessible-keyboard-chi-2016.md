@@ -34,8 +34,6 @@ Clearly, having a tangible edge as a marker made the action considerably easier.
 
 <figure><img src="../../.gitbook/assets/ch_8.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/ch_9.jpg" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../.gitbook/assets/ch_10.jpg" alt=""><figcaption><p>some working documents :) </p></figcaption></figure>
 
 

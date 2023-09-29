@@ -2,7 +2,9 @@
 
 ## Design Process: Tanishq Jewelllery Store Design with Regional Art and Craft Communities
 
-Tanishq is India's most admired jewelry brand, with stores in all cities in the country. I was part of Tanishq Design Studio, headed by Balaji Natarajan, and I worked on the craft and culture based approach to customising retail stores. The objective was two-fold, to reflect the local architecture, culture, arts and wedding traditions, and also to use sustainable material, working with trained craftspeople in the region. The first such store to reflect this mission was at Camac Street, Kolkata. I designed the store, layouts, facade, display design and curated art installations. The essence of this store's design is captured in this beautiful video:
+Tanishq is India's most admired jewelry brand, with stores in all cities in the country. I was part of Tanishq Design Studio and worked on the craft and culture based approach to customising retail stores. The objective was two-fold, to reflect the local architecture, culture, arts and wedding traditions, and also to use sustainable material, working with trained craftspeople in the region. The first such store to reflect this mission was at Camac Street, Kolkata. I designed the store, layouts, facade, display design and curated art installations.&#x20;
+
+The essence of this store's design is captured in this beautiful video:
 
 {% embed url="https://youtu.be/Qwcr7zSIPt4" %}
 
@@ -30,7 +32,7 @@ Tanishq is India's most admired jewelry brand, with stores in all cities in the 
 
 <figure><img src="../../.gitbook/assets/ch_9 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
-I spent about 8 months on this project, 4 for research and developing relationships with artists, craftspeople, understanding wedding cultures in India, and refining the design objectives. The store launched in Camac Street, Kolkata to a lot of media coverage, was on the cover of a leading retail magazine, and won several awards.
+I spent about 8 months on this project, research and developing relationships with artists, craftspeople, understanding wedding cultures in India, and developing the design objectives. The store launched in Camac Street, Kolkata to a lot of media coverage, was on the cover of a leading retail magazine, and won several awards.
 
-Team: Balaji Natarajan, Chitti Babu
+Team: Balaji Natarajan, Chitti Babu, Chandni Naidu
 

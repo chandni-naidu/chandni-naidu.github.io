@@ -4,7 +4,7 @@ Coursework: Interaction, Media and Senses
 
 Brief: To conceptualise and design an app that brings people together for social good.
 
-Team: Shreya Mukta and Chandni Rajendran
+Team: Shreya Mukta and Chandni Naidu
 
 Course Guide: Prof. Ravi Poovaiah
 
