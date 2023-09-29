@@ -20,13 +20,11 @@ Happy browsing!
 
 ***
 
-#### I do have some favorites to highlight&#x20;
+> **I do have some favorites to highlight 🧶**
 
 ### Card page redesign for Aspire, YC W18
 
 _Role: Sr. Product Designer on the Expense Management Team_\
-
-
 Learn more:\
 [financeos-for-startups.md](design-pages/product-design/financeos-for-startups.md "mention")
 
@@ -38,7 +36,6 @@ Learn more:\
 
 An inclusive educational product designed, produced and marketed by <mark style="color:red;">**Tactopus (acquired)**</mark>\
 _Role: Founder, designer_\
-\
 Learn more:\
 [the-hungry-number-monster.md](design-pages/spatial-interaction-design/tactopus-inclusive-learning-with-mr/the-hungry-number-monster.md "mention")\
 
@@ -50,7 +47,6 @@ Learn more:\
 ### Mirror Game
 
 Learning about light with mirrors, a residency project at Agastya Foundation\
-\
 Learn more: \
 [libo-mirror-game-to-learn-light-behavior-for-agastya-foundation.md](design-pages/game-design/libo-mirror-game-to-learn-light-behavior-for-agastya-foundation.md "mention")
 
@@ -63,7 +59,6 @@ Challenge: Use at least 4 mirrors to beam sunlight into target number II
 ### Augmented Reality Tools for Education
 
 AR app to help children explore solid sections \
-\
 Learn more:\
 &#x20;[augmented-geometry.md](design-pages/spatial-interaction-design/augmented-geometry.md "mention")
 
