@@ -23,3 +23,10 @@ One of them, Playlist, is an app for mobile game enthusiasts to save games they'
 {% hint style="success" %}
 If our experience were to prioritise **game discovery**, what would that look like?
 {% endhint %}
+
+Learn more about the project in these articles:
+
+1. [early-explorations.md](early-explorations.md "mention")
+2. [wireframes.md](wireframes.md "mention")
+3. [mvp.md](mvp.md "mention")
+4. [ui-details.md](ui-details.md "mention")
