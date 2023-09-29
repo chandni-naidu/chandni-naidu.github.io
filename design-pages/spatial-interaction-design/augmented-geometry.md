@@ -1,7 +1,7 @@
 ---
 description: >-
   Exploring XR tools to make it easier and more interesting to learn about solid
-  sections as a middle school math learner
+  sections for middle school math learners
 ---
 
 # 🧊 Augmented Geometry

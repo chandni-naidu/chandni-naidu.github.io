@@ -30,6 +30,14 @@ I lead a team of product designers working on bookkeeping (business analytics an
 
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/4458a84f-feca-4b76-ab68-4e2f86ce3836/new_cards_side_by_side.gif?downloadName=new+cards+side+by+side.gif&expirationTimestamp=1696068000000&id=46136fec-b9b3-4697-820c-965a4a9d0f8b&signature=ANIubd6BgyTTIrzvC3jSBrZAYTf24v53g9nWzG2HogU&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
+When we launched physical cards in 2021 after popular demand, we had design a system of identification for the new tangible cards.
+
+I created an attachment to go with the tangible cards that looks like a card sleeve.&#x20;
+
+The visual design system to clearly distinguish physical cards from virtual ones, even when listed in the same page, or as thumbnails:
+
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+
 ### Accounting
 
 * Expense reconciliation
