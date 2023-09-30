@@ -8,12 +8,6 @@ description: >-
 
 <figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
-This is a repository of 16 years of work as a **designer, artist, architect, entrepreneur and educator**. As much as I'd love to give you an easy snapshot of my journey, it's important to me that I resist the reductive force of ever-changing industry labels.
-
-This site is also an early digital garden, I hope to continue to write about my work here. I've tried blogging, micro-blogging and newsletters, none of those formats help me think and communicate freely.&#x20;
-
-To learn more about my relationship to my work, see [about.md](about.md "mention")
-
 Explore projects and notes through the menu on the left (or top-left on mobile devices)&#x20;
 
 Happy browsing!
@@ -31,6 +25,14 @@ Learn more:\
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/4458a84f-feca-4b76-ab68-4e2f86ce3836/new_cards_side_by_side.gif?downloadName=new+cards+side+by+side.gif&expirationTimestamp=1696068000000&id=46136fec-b9b3-4697-820c-965a4a9d0f8b&signature=ANIubd6BgyTTIrzvC3jSBrZAYTf24v53g9nWzG2HogU&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
 ***
+
+### Calendar on a dial
+
+Watch interface design to represent the day's agenda on an analog dial\
+Learn more:\
+&#x20;[smartwatch-agenda-display.md](design-pages/interaction-design/smartwatch-agenda-display.md "mention")
+
+{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/6641b0c3-7137-4b2d-8850-5006bdf4b00e/watchface.gif?downloadName=watchface.gif&expirationTimestamp=1696147200000&id=8d527488-6fb2-44a0-b334-f9034479545b&signature=rSmbQfWYFH7Rdq57P-d5CMJ7mYMtQNliUqxJaGU_wWM&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
 ### The Hungry Number Monster&#x20;
 
@@ -68,3 +70,12 @@ Learn more:\
 
 
 
+***
+
+_Note_
+
+This is a repository of 16 years of work as a **designer, artist, architect, entrepreneur and educator**. As much as I'd love to give you an easy snapshot of my journey, it's important to me that I resist the reductive force of ever-changing industry labels.
+
+This site is also an early digital garden, I hope to continue to write about my work here. I've tried blogging, micro-blogging and newsletters, none of those formats help me think and communicate freely.&#x20;
+
+To learn more about my relationship to my work, see [about.md](about.md "mention")
