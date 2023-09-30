@@ -32,7 +32,9 @@ Watch interface design to represent the day's agenda on an analog dial\
 Learn more:\
 &#x20;[smartwatch-agenda-display.md](design-pages/interaction-design/smartwatch-agenda-display.md "mention")
 
-{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/6641b0c3-7137-4b2d-8850-5006bdf4b00e/watchface.gif?downloadName=watchface.gif&expirationTimestamp=1696147200000&id=8d527488-6fb2-44a0-b334-f9034479545b&signature=rSmbQfWYFH7Rdq57P-d5CMJ7mYMtQNliUqxJaGU_wWM&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
+{% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/25d20084-f4f0-43c3-9927-7bb7a9a605d9/watchface_3.gif?downloadName=watchface+3.gif&expirationTimestamp=1696168800000&id=874bf80b-5794-418c-8c01-c6c4ec9008d0&signature=NGYig0hoZtPfOwK4vzQXdk4iLOHVD0HVYQZgtStLJ5E&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
+
+![](<.gitbook/assets/image (171).png>)![](<.gitbook/assets/image (173).png>)
 
 ### The Hungry Number Monster&#x20;
 
