@@ -1,4 +1,4 @@
-# Campus landscape and pathway usage analysis
+# 🐙 Campus landscape and pathway usage analysis
 
 ### Campus Level Landscape Design
 

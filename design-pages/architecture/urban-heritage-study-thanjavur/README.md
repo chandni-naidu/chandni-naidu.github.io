@@ -7,3 +7,10 @@ description: >-
 
 # 🏛 Urban Heritage Study: Thanjavur
 
+Summary:
+
+<figure><img src="../../../.gitbook/assets/B.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/B1.jpg" alt=""><figcaption></figcaption></figure>
+
+View the detailed report in 3 parts in this chapter.

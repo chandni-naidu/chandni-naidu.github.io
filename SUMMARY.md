@@ -47,9 +47,9 @@
   * [🥘 Food Orders, Wrapped](design-pages/dataviz/food-orders-wrapped.md)
   * [🐦 Twitter Wrapped](design-pages/dataviz/twitter-wrapped.md)
 * [Architecture](design-pages/architecture/README.md)
-  * [Landscape Design](design-pages/architecture/landscape-design.md)
-  * [Campus landscape and pathway usage analysis](design-pages/architecture/campus-landscape-and-pathway-usage-analysis.md)
-  * [Overview](design-pages/architecture/overview.md)
+  * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
+  * [☘ Landscape Design](design-pages/architecture/landscape-design.md)
+  * [🐙 Campus landscape and pathway usage analysis](design-pages/architecture/campus-landscape-and-pathway-usage-analysis.md)
   * [🏛 Urban Heritage Study: Thiruvananthapuram](design-pages/architecture/urban-heritage-study-thiruvananthapuram/README.md)
     * [Part 1](design-pages/architecture/urban-heritage-study-thiruvananthapuram/part-1.md)
     * [Part 2](design-pages/architecture/urban-heritage-study-thiruvananthapuram/part-2.md)
@@ -60,9 +60,8 @@
     * [Part 1](design-pages/architecture/urban-heritage-study-thanjavur/part-1.md)
     * [Part 2](design-pages/architecture/urban-heritage-study-thanjavur/part-2.md)
     * [Part 3](design-pages/architecture/urban-heritage-study-thanjavur/part-3.md)
-  * [🧡 Craft, Heritage and Wedding Cultures](design-pages/architecture/craft-heritage-and-wedding-cultures.md)
+  * [🏛 Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
   * [🔨 Technical Illustrations for the Book "The Unfinished: The Stone Carvers at Work in the Indian Subcon](design-pages/architecture/technical-illustrations-for-the-book-the-unfinished-the-stone-carvers-at-work-in-the-indian-subcon.md)
-  * [🛕 Urban Heritage of Srirangam](design-pages/architecture/urban-heritage-of-srirangam.md)
 
 ## 🧀 Research Pages
 
