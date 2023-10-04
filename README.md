@@ -14,7 +14,7 @@ _Highlighting some of my favourite projects:_
 
 _Role: Sr. Product Designer on the Expense Management Team_\
 Learn more:\
-[financeos-for-startups.md](design-pages/product-design/financeos-for-startups.md "mention")
+[fintech-product-design](design-pages/product-design/fintech-product-design/ "mention")
 
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/4458a84f-feca-4b76-ab68-4e2f86ce3836/new_cards_side_by_side.gif?downloadName=new+cards+side+by+side.gif&expirationTimestamp=1696068000000&id=46136fec-b9b3-4697-820c-965a4a9d0f8b&signature=ANIubd6BgyTTIrzvC3jSBrZAYTf24v53g9nWzG2HogU&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
@@ -24,7 +24,7 @@ Learn more:\
 
 Watch interface design to represent the day's agenda on an analog dial\
 Learn more:\
-&#x20;[smartwatch-agenda-display.md](design-pages/interaction-design/smartwatch-agenda-display.md "mention")
+&#x20;[smartwatch-agenda-display.md](design-pages/product-design/smartwatch-agenda-display.md "mention")
 
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/25d20084-f4f0-43c3-9927-7bb7a9a605d9/watchface_3.gif?downloadName=watchface+3.gif&expirationTimestamp=1696168800000&id=874bf80b-5794-418c-8c01-c6c4ec9008d0&signature=NGYig0hoZtPfOwK4vzQXdk4iLOHVD0HVYQZgtStLJ5E&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 

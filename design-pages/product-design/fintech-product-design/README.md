@@ -5,11 +5,11 @@ description: >-
   Asia.
 ---
 
-# 💰 FinanceOS for startups
+# 💰 FinTech Product Design
 
 
 
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 I lead a team of product designers working on bookkeeping (business analytics and accounting integrations.) The team's goal is to make it easy for accountants to manage business finances and compliance with ease. Listed below are some of the features/projects I worked on:
 
@@ -36,7 +36,13 @@ I created an attachment to go with the tangible cards that looks like a card sle
 
 The visual design system to clearly distinguish physical cards from virtual ones, even when listed in the same page, or as thumbnails:
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+
+For more of a deep-dive into the process, see:
+
+[cards-page-design.md](cards-page-design.md "mention")
+
+***
 
 ### Accounting
 
