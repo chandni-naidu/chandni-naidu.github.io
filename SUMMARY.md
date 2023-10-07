@@ -9,6 +9,7 @@
   * [💰 FinTech Product Design](design-pages/product-design/financeos-for-startups.md)
     * [Cards Page Design](design-pages/product-design/fintech-product-design/cards-page-design.md)
   * [⌚ Smartwatch Agenda Display](design-pages/interaction-design/smartwatch-agenda-display.md)
+  * [Writing tool for the English classroom](design-pages/product-design/writing-tool-for-the-english-classroom.md)
   * [🏮 FixCity: Community Engagement Platform](design-pages/interaction-design/fixcity-community-engagement-platform.md)
   * [🎮 Game Platform](design-pages/product-design/game-platform/README.md)
     * [Early Explorations](design-pages/product-design/game-platform/early-explorations.md)
