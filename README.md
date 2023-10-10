@@ -13,7 +13,7 @@ _Highlighting some of my favourite projects:_
 ### Card page redesign for Aspire, YC W18
 
 _Role: Sr. Product Designer on the Expense Management Team_\
-Learn more: [cards-page-design.md](design-pages/product-design/fintech-product-design/cards-page-design.md "mention")\
+Learn more: [virtual-cards-on-finance-apps.md](design-pages/product-design/virtual-cards-on-finance-apps.md "mention")\
 
 
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/4458a84f-feca-4b76-ab68-4e2f86ce3836/new_cards_side_by_side.gif?downloadName=new+cards+side+by+side.gif&expirationTimestamp=1696068000000&id=46136fec-b9b3-4697-820c-965a4a9d0f8b&signature=ANIubd6BgyTTIrzvC3jSBrZAYTf24v53g9nWzG2HogU&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}

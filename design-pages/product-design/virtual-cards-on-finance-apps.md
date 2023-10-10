@@ -4,13 +4,13 @@ description: >-
   product team
 ---
 
-# Cards Page Design
+# 💳 Virtual Cards on Finance Apps
 
 ### Context
 
 One of the first projects I worked on was the budgets feature in companies' expense management retinue. We had just launched budgets to a circle beta users, and the feature needed to be supported by all other aspects of the product, including the cards page. In the process of designing for all the edge-cases for the complex feature inclusion, I also made note of several general usability issues in the cards page. At the time, the virtual cards was like the favourite of the entire management team. Everybody was proud of it because it was one of the most well received features that can be credited for the product's success. Suggestions to redesign or review it were not going to be easily accepted, and I had to build a strong case for it.&#x20;
 
-![](<../../../.gitbook/assets/image (175).png>)&#x20;
+![](<../../.gitbook/assets/image (175).png>)&#x20;
 
 A few issues with this card layout:&#x20;
 
@@ -30,11 +30,11 @@ There was no understandable grouping of information, or hierarchy of data displa
 
 The following questions were analysed to arrive at the key functions of the card page:
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 I then presented the issues to all relevant team members to align on some basic functional expectations.
 
-<figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 We aligned on the fact that the way a user looks at a card would have several functional needs, and that they can be hierarchically positioned. This would also inform us what the visual hierarchy of the page should be.
 
@@ -60,17 +60,17 @@ All these teams had to be consulted at every stage, as any change to the card di
 
 Variations to balance utility, functionality and appearance:
 
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 Explorations to display budget labels
 
-<figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 Around the same time, we were also introducing physical cards. To accommodateate those alongside virtual cards, I also designed the virtual representations of this family of cards:
 
-<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://file.notion.so/f/f/92a42d9c-ee27-46c4-9d11-b3b00d5e90bd/e1d1e982-bf89-4b1f-b744-e1049296e36e/Card_number_reveal.gif?downloadName=Card+number+reveal.gif&expirationTimestamp=1696514400000&id=64f58f5d-db7a-4f36-8de3-c59e50f1336a&signature=FW8_F0oqmv98VPPbTgSquk77H0mK3GDvi21Q4y71EoE&spaceId=92a42d9c-ee27-46c4-9d11-b3b00d5e90bd&table=block" %}
 
@@ -89,4 +89,4 @@ When we launched the new card page, it was after many iterations, discussions an
 
 I love signing off project documents with a behind-the-scenes peek into the messy complexity because it just won't show through in the finished work, by design.
 
-<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>

@@ -40,7 +40,7 @@ The visual design system to clearly distinguish physical cards from virtual ones
 
 For more of a deep-dive into the process, see:
 
-[cards-page-design.md](fintech-product-design/cards-page-design.md "mention")
+[virtual-cards-on-finance-apps.md](virtual-cards-on-finance-apps.md "mention")
 
 ***
 
