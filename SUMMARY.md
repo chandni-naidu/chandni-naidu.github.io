@@ -10,7 +10,6 @@
   * [💳 Virtual Cards on Finance Apps](design-pages/product-design/virtual-cards-on-finance-apps.md)
   * [📒 Ed-tech: Modern writing tool for language arts classrooms](design-pages/product-design/ed-tech-modern-writing-tool-for-language-arts-classrooms.md)
   * [⌚ Smartwatch Agenda Display](design-pages/interaction-design/smartwatch-agenda-display.md)
-  * [Writing tool for the English classroom](design-pages/product-design/writing-tool-for-the-english-classroom.md)
   * [🏮 FixCity: Community Engagement Platform](design-pages/interaction-design/fixcity-community-engagement-platform.md)
   * [🎮 Game Platform](design-pages/product-design/game-platform/README.md)
     * [Early Explorations](design-pages/product-design/game-platform/early-explorations.md)

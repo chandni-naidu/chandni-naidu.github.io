@@ -1,4 +1,4 @@
-# Ed-tech: Modern writing tool for language arts classrooms
+# 📒 Ed-tech: Modern writing tool for language arts classrooms
 
 The relationship between AI and writing (or any creative process) is tricky. This is no reason to shy away from learning to use relevant tools. On the contrary, educators must help learners use tools the right way.
 
