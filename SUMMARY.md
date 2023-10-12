@@ -2,6 +2,7 @@
 
 * [Home](README.md)
   * [About](about.md)
+  * [Honors](readme/honors.md)
 
 ## 🛸 Design Pages
 
